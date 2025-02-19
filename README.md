@@ -1,8 +1,10 @@
 This is a README.sh file for Submissions_reminder_app summative.
-It is a script that reminds studets of pending submissions.
+It is a script that reminds students of pending submissions.
 
 
 #Summary 
+
+
 I created a command that prompts "Enter your Name" when the script is asked to run, using the  variable $username 
 mkdir then creates the directories app modules assets config 
 cat > the directory << 'EOF' writes all the source codes of the entire file inside the directory
@@ -11,10 +13,14 @@ chmod gives permission for execusion of the script.
 
 
 #Setup instructions
+
+
 I created a repository (submission_reminder_app_MEE-DRED) and cloned on my terminal using git clone (my token@http)
 
 
-#Folder structure 
+#Folder structure
+
+ 
 This follows the tree in which I created the directories
 
 
